@@ -1,5 +1,7 @@
 # WIN11-securityaudit
 
+One run gives you a full hardware inventory, drive health report, malware and corruption checks, a remote-access and persistence audit, a suspicious-file sweep, and a Win11Debloat-inspired bloat/telemetry audit — followed by an interactive review where you decide what happens to every finding.
+
 **PC-Security-Audit.ps1** — A deep diagnostic and security sweep for Windows 11, in a single PowerShell script.
 
 One run gives you a full hardware inventory, drive health report, malware and corruption checks, a remote-access and persistence audit, a suspicious-file sweep, and a Win11Debloat-inspired bloat/telemetry audit — followed by an interactive review where **you** decide what happens to every finding.
